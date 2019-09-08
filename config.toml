@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://thomasjohander.info/"
 languageCode = "en-us"
 title = "Thomas Johander Resume"
 theme="hugo-resume"
